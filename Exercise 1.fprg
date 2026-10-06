@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exercise 1"/>
+        <attribute name="authors" value="marvi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-10 12:10:50 PM"/>
+        <attribute name="created" value="bWFydmk7REVTS1RPUC0xVDhUTUVVOzIwMjYtMDktMTA7MTA6MzU6MTggQU07Mjg5Nw=="/>
+        <attribute name="edited" value="bWFydmk7REVTS1RPUC0xVDhUTUVVOzIwMjYtMDktMTA7MTI6MTA6NTAgUE07MTszMDEx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;My Name is Marvin Ross&quot;" newline="True"/>
+            <output expression="&quot;I was born in the City of Chicago, Illinois&quot;" newline="True"/>
+            <output expression="&quot;My hobby or pastime is playing PC games&quot;" newline="True"/>
+            <output expression="&quot;I hope to get an A grade in this course&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

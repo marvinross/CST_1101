@@ -1,0 +1,6 @@
+Colombian
+50
+French
+45
+Italian
+35

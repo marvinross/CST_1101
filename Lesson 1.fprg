@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Lesson 1"/>
+        <attribute name="authors" value="marvi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-08 09:36:29 PM"/>
+        <attribute name="created" value="bWFydmk7REVTS1RPUC0xVDhUTUVVOzIwMjYtMDktMDg7MDg6NDM6NTcgUE07MjkyOA=="/>
+        <attribute name="edited" value="bWFydmk7REVTS1RPUC0xVDhUTUVVOzIwMjYtMDktMDg7MDk6MzY6MjkgUE07MTszMDM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="age" type="Integer" array="False" size=""/>
+            <declare name="name" type="String" array="False" size=""/>
+            <output expression="&quot;What is your name&quot;" newline="True"/>
+            <input variable="name"/>
+            <output expression="&quot;What is your age?&quot;" newline="True"/>
+            <input variable="age"/>
+            <output expression="&quot;Hello &quot; &amp; name &amp; &quot; You are &quot; &amp; age &amp; &quot; years old &quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

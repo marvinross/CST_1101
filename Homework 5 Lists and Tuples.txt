@@ -1,0 +1,7 @@
+Homework Tasks  
+1.Create a list of tuples where each tuple contains a student's name and their list of grades.
+2 Write a function that takes a tuple (name, grades) and returns the average as a tuple (name, average).
+3 Calculate averages for all students using list comprehension.
+4 Print all students' averages formatted to two decimal places.
+5 Identify students whose average grades are above 90.
+6 (Optional) Add a new student to the list and recalculate averages.
